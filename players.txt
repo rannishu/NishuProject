@@ -1,0 +1,5 @@
+Jamie,computer
+Dennis,human
+Ila,human
+Anaya,human
+Alishba,human
